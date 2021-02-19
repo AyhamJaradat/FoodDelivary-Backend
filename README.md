@@ -4,8 +4,8 @@ This is a complete full-stack application created to demonstrate my development 
 
 The project consists of two main application:
 
-- The backend : Built using Yii2 framework. (on *backend_main* branch)
-- The frontend : Built using ionic 4 framework (on *frontend_main* branch).
+- The backend : Built using Yii2 framework.
+- The frontend : Built using ionic 4 framework (Angular)
 
 ## Project Requirements
 
